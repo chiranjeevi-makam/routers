@@ -1,0 +1,34 @@
+.headLayput{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between; 
+    align-items: center; 
+    height: 60px; 
+    width: 90vw; 
+    box-sizing: border-box;
+} 
+.logAndName{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-around; 
+    align-items: center; 
+    letter-spacing: 1px;
+} 
+.namesList{
+    display: flex; 
+    list-style-type: none; 
+
+
+} 
+.logoStyling{
+    object-fit:scale-down; 
+    height: 30px; 
+    margin: 2px;
+} 
+.listNameStyling{
+    color:#12022f; 
+    text-decoration: none; 
+    margin-left: 25px; 
+    letter-spacing: 1px;
+    font-family: 'Roboto';
+}

@@ -1,0 +1,12 @@
+.HomeLayout{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: flex-start;
+} 
+.homeBottomSection{
+    align-self: center; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+}
